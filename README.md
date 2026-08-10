@@ -1,2 +1,2 @@
 # albisnesstz.github.io
-Personal portfolio website for AlbisnessTz — AI engineer, developer, and content creator
+Personal portfolio website for AlbisnessTz — AI engineer, developer, and content creator, Computer Engineer 🖥 
